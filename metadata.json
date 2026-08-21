@@ -1,0 +1,8 @@
+{
+  "name": "CyberPhish - Cyber Analytics & Phishing Detection",
+  "description": "AI-Powered Cyber Analytics System for Phishing Email Detection Using Machine Learning in Commercial Banking Environments",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
